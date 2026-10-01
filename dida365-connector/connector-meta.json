@@ -1,0 +1,23 @@
+{
+    "name": "滴答清单",
+    "name_zh": "滴答清单",
+    "name_en": "DIDA",
+    "description": "简单好用的时间管理助手，帮助你高效完成任务，让工作生活井井有条，全球千万用户的共同选择。",
+    "description_zh": "简单好用的时间管理助手，帮助你高效完成任务，让工作生活井井有条，全球千万用户的共同选择。",
+    "description_en": "Join millions of people to capture ideas, organize life, and do something creative.",
+    "source": "dida365-connector",
+    "type": "mcp",
+    "version": "1.0.0",
+    "examples_zh": [
+      "帮我整理收集箱中的任务。",
+      "帮我规划今天的任务安排。",
+      "帮我清理长期未处理任务。",
+      "帮我复盘今天的任务完成情况。"
+    ],
+    "examples_en": [
+      "Help me organize tasks in the inbox.",
+      "Help me plan today's tasks.",
+      "Help me clear long-pending tasks.",
+      "Help me review today's task completion status."
+    ]
+  }
