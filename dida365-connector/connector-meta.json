@@ -7,7 +7,7 @@
   "description_en": "Join millions of people to capture ideas, organize life, and do something creative.",
   "source": "dida365-connector",
   "type": "mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "examples_zh": [
     "帮我整理收集箱中的任务。",
     "帮我规划今天的任务安排。",
