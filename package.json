@@ -10,6 +10,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "vite-plus": "^1.0.0"
+    "vite-plus": "^1.1.0"
   }
 }
